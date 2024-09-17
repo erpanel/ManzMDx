@@ -1,14 +1,14 @@
-global.owner = ['6288989721627']  
-global.mods = ['6288989721627'] 
-global.prems = ['6288989721627']
-global.nameowner = 'Manz'
-global.numberowner = '6288989721627' 
-global.namebot = 'ManzMD'
-global.nomorown = '6288989721627'
+global.owner = ['6285766450735']  
+global.mods = ['6285766450735'] 
+global.prems = ['6285766450735']
+global.nameowner = 'bot'
+global.numberowner = '6285766450735' 
+global.namebot = 'bot'
+global.nomorown = '6285766450735'
 global.mail = 'manzxd@gmail.com' 
 global.gc = 'https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi'
 global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Manz'
+global.wm = '© bot'
 global.wait = '`Tunggu sedang di proses...`'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
@@ -23,18 +23,18 @@ global.flaaa = [
     'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
 ]
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = '4zoe6D2Z' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = 'bot'
 //Daftar https://api.betabotz.eu.org 
 
 global.APIs = {   
   btc: 'https://api.botcahx.eu.org'
 }
 global.APIKeys = { 
-  'https://api.botcahx.eu.org': 'APIKEY' 
+  'https://api.botcahx.eu.org': '4zoe6D2Z' 
 }
 
 global.multiplier = 38 // The higher, The harder levelup
